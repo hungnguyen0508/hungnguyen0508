@@ -95,22 +95,3 @@
     <circle cx="280" cy="81" r="2" fill="#FFF"/>
   </g>
 
-  <!-- Stick Figure Person -->
-  <g class="person" transform="translate(20, 150)">
-    <!-- Speech Bubble -->
-    <g class="speech-bubble">
-      <path d="M30,0 L60,0 Q70,0 70,10 L70,30 Q70,40 60,40 L35,40 L25,50 L30,40 L30,40 Q20,40 20,30 L20,10 Q20,0 30,0" 
-            fill="#FFF" opacity="0.9"/>
-      <text x="45" y="25" font-family="Arial" font-size="12" text-anchor="middle" fill="#000">Hello!</text>
-    </g>
-    <!-- Body -->
-    <circle cx="30" cy="70" r="8" fill="#FFF"/> <!-- Head -->
-    <line x1="30" y1="78" x2="30" y2="100" stroke="#FFF" stroke-width="2"/> <!-- Body -->
-    <line x1="30" y1="85" x2="15" y2="95" stroke="#FFF" stroke-width="2"/> <!-- Left Arm -->
-    <g class="wave">
-      <line x1="30" y1="85" x2="45" y2="75" stroke="#FFF" stroke-width="2"/> <!-- Right Arm (waving) -->
-    </g>
-    <line x1="30" y1="100" x2="20" y2="120" stroke="#FFF" stroke-width="2"/> <!-- Left Leg -->
-    <line x1="30" y1="100" x2="40" y2="120" stroke="#FFF" stroke-width="2"/> <!-- Right Leg -->
-  </g>
-</svg>
