@@ -6,7 +6,6 @@
     .pulse { animation: pulse 2s infinite ease-in-out; }
     .dataflow { animation: flow 3s infinite linear; }
     .sparkline { animation: draw 3s infinite linear; }
-    .wave { animation: wave 2s infinite ease-in-out; transform-origin: bottom; }
     
     @keyframes growBar1 {
       0%, 100% { transform: scaleY(0.4); }
@@ -31,10 +30,6 @@
     @keyframes draw {
       0% { stroke-dashoffset: 1000; }
       100% { stroke-dashoffset: 0; }
-    }
-    @keyframes wave {
-      0%, 100% { transform: rotate(0deg); }
-      50% { transform: rotate(10deg); }
     }
   </style>
 
@@ -81,16 +76,6 @@
     <circle cx="240" cy="85" r="2" fill="#FFF"/>
     <circle cx="260" cy="82" r="2" fill="#FFF"/>
     <circle cx="280" cy="81" r="2" fill="#FFF"/>
-  </g>
-
-  <!-- Animated character -->
-  <g transform="translate(300, 150)">
-    <circle cx="0" cy="0" r="20" fill="#FFD700"/>
-    <circle cx="-7" cy="-5" r="3" fill="#000"/>
-    <circle cx="7" cy="-5" r="3" fill="#000"/>
-    <path d="M-7,5 Q0,10 7,5" stroke="#000" stroke-width="2" fill="none"/>
-    <text x="0" y="40" fill="#FFF" font-family="Arial" font-size="12" text-anchor="middle">Hello!</text>
-    <line x1="0" y1="20" x2="0" y2="40" stroke="#FFD700" stroke-width="4" class="wave"/>
   </g>
 
   <!-- Shadow filter -->
