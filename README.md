@@ -25,4 +25,4 @@
 Let’s collaborate and create something impactful together! 🚀
 
 
-[![Play Chrome Dino](https://via.placeholder.com/500x300.png?text=Click+to+Play+Chrome+Dino)](https://chromedino.com/)
+
