@@ -19,7 +19,7 @@
 📚 Devoted to advancing skills in Data Analysis, staying updated on the latest technologies.
 
 ## Let's Connect!
-📧 Reach out via email at [kpqkhanh.flss@gmail.com](mailto:kpqkhanh.flss@gmail.com).
+📧 Reach out via email at [nguyenhuynhquanghung2005@gmail.com](nguyenhuynhquanghung2005@gmail.com).
 
 🔗 Connect on [LinkedIn](!www.linkedin.com/in/hung-nguyen08) for professional networking.
 
