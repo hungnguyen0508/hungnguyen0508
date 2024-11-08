@@ -25,5 +25,4 @@
 Let’s collaborate and create something impactful together! 🚀
 
 
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+[![Play Chrome Dino](https://via.placeholder.com/500x300.png?text=Click+to+Play+Chrome+Dino)](https://chromedino.com/)
