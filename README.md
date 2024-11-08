@@ -1,26 +1,25 @@
+# Welcome to My GitHub
 
-# Welcome to my GitHub
-
-👋 Hi there! I'm Hung Nguyen, a second-year student majoring in International Business with a focus on Data Analysis at LAB University of Applied Sciences. Welcome to my GitHub!
+👋 Hello! I'm Hung Nguyen, a second-year student at LAB University of Applied Sciences, majoring in International Business with a focus on Data Analysis. Thanks for visiting my GitHub!
 
 ## About Me
-🚀 Enthusiastic about data, I focus on programming in Python and SQL. My passion extends to Data Engineering, Database Administration, and visualizing insights using Power BI.
+📊 Passionate about data, I specialize in Python and SQL programming. I am particularly interested in Data Engineering, Database Administration, and leveraging Power BI to transform data into actionable insights.
 
 ## Skills
-🖥️ **Proficient in**:
+💻 **Proficient in**:
 - Python
 - SQL
-- Power BI for data visualization
+- Power BI (Data Visualization)
 
 🌐 **Currently exploring**:
-- Machine learning for predictive analysis. 
+- Machine Learning for predictive analytics
 
 ## Current Focus
-📚 Devoted to advancing skills in Data Analysis using Python, staying updated on the latest technologies.
+📖 Focused on enhancing my skills in Data Analysis with Python, and continually staying updated on emerging technologies and industry trends.
 
 ## Let's Connect!
-📧 Reach out via email at [nguyenhuynhquanghung2005@gmail.com](nguyenhuynhquanghung2005@gmail.com).
+📧 Feel free to reach out via email at [nguyenhuynhquanghung2005@gmail.com](mailto:nguyenhuynhquanghung2005@gmail.com).
 
-🔗 Connect on [LinkedIn](!www.linkedin.com/in/hung-nguyen08) for professional networking.
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hung-nguyen) for professional networking.
 
-Let's build something amazing together! 🚀
+Let’s collaborate and create something impactful together! 🚀
