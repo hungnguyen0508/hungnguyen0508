@@ -1,21 +1,5 @@
 ## Hi there 👋
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21625
-Fork on GitHub
-6869
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Hung Nguyen</h1>
 <h3 align="center">A business student on a mission to land a data-driven role and make an impact in the world of analytics.</h3>
 
