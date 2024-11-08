@@ -25,4 +25,7 @@
 Let’s collaborate and create something impactful together! 🚀
 
 
+![Dino Animation](./dino.svg)
+
+
 
