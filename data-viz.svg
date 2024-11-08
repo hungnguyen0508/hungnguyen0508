@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
   <style>
-    .bar1 { animation: growBar1 2s infinite; transform-origin: bottom; }
-    .bar2 { animation: growBar2 2s infinite; transform-origin: bottom; }
-    .bar3 { animation: growBar3 2s infinite; transform-origin: bottom; }
-    .pulse { animation: pulse 2s infinite; }
-    .dataflow { animation: flow 3s infinite; }
-    .sparkline { animation: draw 3s infinite; }
+    .bar1 { animation: growBar1 2s infinite ease-in-out; transform-origin: bottom; }
+    .bar2 { animation: growBar2 2s infinite ease-in-out; transform-origin: bottom; }
+    .bar3 { animation: growBar3 2s infinite ease-in-out; transform-origin: bottom; }
+    .pulse { animation: pulse 2s infinite ease-in-out; }
+    .dataflow { animation: flow 3s infinite linear; }
+    .sparkline { animation: draw 3s infinite linear; }
     
     @keyframes growBar1 {
       0%, 100% { transform: scaleY(0.4); }
@@ -37,7 +37,7 @@
   <rect width="400" height="200" fill="#1a1a1a"/>
   
   <!-- Grid lines -->
-  <g stroke="#333" stroke-width="0.5">
+  <g stroke="#444" stroke-width="0.5">
     <line x1="0" y1="40" x2="400" y2="40"/>
     <line x1="0" y1="80" x2="400" y2="80"/>
     <line x1="0" y1="120" x2="400" y2="120"/>
@@ -45,13 +45,13 @@
   </g>
 
   <!-- Centered Title -->
-  <text x="200" y="30" fill="#888" font-family="Arial" font-size="14" text-anchor="middle">Data Analytics</text>
+  <text x="200" y="30" fill="#bbb" font-family="Arial" font-size="16" text-anchor="middle">Data Analytics</text>
 
   <!-- Animated bars (now growing from bottom) -->
   <g transform="translate(50, 180)">
-    <rect class="bar1" x="0" y="-120" width="30" height="120" fill="#4CAF50" opacity="0.8"/>
-    <rect class="bar2" x="40" y="-120" width="30" height="120" fill="#2196F3" opacity="0.8"/>
-    <rect class="bar3" x="80" y="-120" width="30" height="120" fill="#9C27B0" opacity="0.8"/>
+    <rect class="bar1" x="0" y="-120" width="30" height="120" fill="#FF5722" opacity="0.9" filter="url(#shadow)"/>
+    <rect class="bar2" x="40" y="-120" width="30" height="120" fill="#03A9F4" opacity="0.9" filter="url(#shadow)"/>
+    <rect class="bar3" x="80" y="-120" width="30" height="120" fill="#8BC34A" opacity="0.9" filter="url(#shadow)"/>
   </g>
 
   <!-- Animated sparkline -->
@@ -77,4 +77,16 @@
     <circle cx="260" cy="82" r="2" fill="#FFF"/>
     <circle cx="280" cy="81" r="2" fill="#FFF"/>
   </g>
+
+  <!-- Shadow filter -->
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="2" dy="2" result="offsetblur"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 </svg>
