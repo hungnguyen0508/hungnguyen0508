@@ -16,7 +16,7 @@
 - Machine learning for predictive analysis. 
 
 ## Current Focus
-📚 Devoted to advancing skills in Data Analysis, staying updated on the latest technologies.
+📚 Devoted to advancing skills in Data Analysis using Python, staying updated on the latest technologies.
 
 ## Let's Connect!
 📧 Reach out via email at [nguyenhuynhquanghung2005@gmail.com](nguyenhuynhquanghung2005@gmail.com).
