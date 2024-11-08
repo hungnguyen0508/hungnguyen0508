@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Hung Nguyen</h1>
 <h3 align="center">A business student on a mission to land a data-driven role and make an impact in the world of analytics.</h3>
