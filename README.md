@@ -18,7 +18,7 @@
 📖 Focused on enhancing my skills in Data Analysis with Python, and continually staying updated on emerging technologies and industry trends.
 
 ## Let's Connect!
-📧 Feel free to reach out via email at [nguyenhuynhquanghung2005@gmail.com](mailto:hunghnguyen.work@gmail.com).
+📧 Feel free to reach out via email at [hunghnguyen.work@gmail.com](mailto:hunghnguyen.work@gmail.com).
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hung-nguyen) for professional networking.
 
