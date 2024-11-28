@@ -9,15 +9,12 @@
 💻 **Proficient in**:
 - Python
 - SQL
-- Power BI (Data Visualization)
+- Visualization tools: Power BI, Looker Studio. 
 
-🌐 **Currently exploring**:
-- Machine Learning for predictive analytics
+## On-going Learning: 
+📖 Focusing on enhancing my skills in Data Science with Python, especially Machine Learning, and continually staying updated on emerging technologies and industry trends.
 
-## Current Focus
-📖 Focused on enhancing my skills in Data Analysis with Python, and continually staying updated on emerging technologies and industry trends.
-
-## Let's Connect!
+## Connect with me !!
 📧 Feel free to reach out via email at [hunghnguyen.work@gmail.com](mailto:hunghnguyen.work@gmail.com).
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hung-nguyen) for professional networking.
