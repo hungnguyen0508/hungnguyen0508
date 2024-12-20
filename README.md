@@ -12,7 +12,7 @@
 - Visualization tools: Power BI, Looker Studio. 
 
 ## On-going Learning: 
-📖 Focusing on enhancing my skills in Data Engineering and continually staying updated on emerging technologies and industry trends.
+📖 Focusing on enhancing my skills in Data Engineering and improving analytical mindset, I do not forget to continually stay updated on emerging technologies and industry trends 🧐.
 
 ## Connect with me !!
 📧 Feel free to reach out via email at [hunghnguyen.work@gmail.com](mailto:hunghnguyen.work@gmail.com).
